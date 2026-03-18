@@ -1,5 +1,9 @@
+<div style="text-align: center;">
+    <h2>Anant Koli</h2>
+</div>
+
 # 💫 About Me:
-🔭 I’m a Computer Engineering Student<br>🌱 I’m currently in Second Year <br>
+Hi, My Name is Anant koli<br>🔭 I’m a Computer Engineering Student<br>🌱 I’m currently in Second Year <br>
 
 
 ## 🌐 Socials:
